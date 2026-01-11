@@ -1,0 +1,2 @@
+This file was added in the feature-update branch.
+It demonstrates branching in Git.
